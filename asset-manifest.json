@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/samdole365.github.io/movie_app/static/css/main.3964c24e.css",
-    "main.js": "/samdole365.github.io/movie_app/static/js/main.c458c344.js",
-    "index.html": "/samdole365.github.io/movie_app/index.html",
-    "main.3964c24e.css.map": "/samdole365.github.io/movie_app/static/css/main.3964c24e.css.map",
-    "main.c458c344.js.map": "/samdole365.github.io/movie_app/static/js/main.c458c344.js.map"
+    "main.css": "/movie_app/static/css/main.3964c24e.css",
+    "main.js": "/movie_app/static/js/main.c458c344.js",
+    "index.html": "/movie_app/index.html",
+    "main.3964c24e.css.map": "/movie_app/static/css/main.3964c24e.css.map",
+    "main.c458c344.js.map": "/movie_app/static/js/main.c458c344.js.map"
   },
   "entrypoints": [
     "static/css/main.3964c24e.css",
